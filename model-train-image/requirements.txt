@@ -1,0 +1,8 @@
+joblib 
+numpy 
+pandas==1.4.4
+scikit-learn
+google-cloud-storage
+evidently
+xgboost
+matplotlib
